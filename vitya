@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Онлайн-сервіс для додаткового заробітку</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f6f8;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 600px;
+      margin: 40px auto;
+      background: #ffffff;
+      padding: 25px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #222;
+      font-size: 24px;
+    }
+    p {
+      color: #444;
+      line-height: 1.5;
+    }
+    ul {
+      margin-left: 20px;
+    }
+    .btn {
+      display: block;
+      text-align: center;
+      margin: 25px 0;
+      padding: 15px;
+      background: #2ecc71;
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+      border-radius: 6px;
+    }
+    .btn:hover {
+      background: #27ae60;
+    }
+    .note {
+      font-size: 12px;
+      color: #777;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Онлайн-сервіс для додаткового заробітку</h1>
+
+  <p>
+    В інтернеті існують сервіси, які дозволяють отримувати додатковий дохід
+    без спеціальних знань і вкладень.
+  </p>
+
+  <p><strong>Основні можливості:</strong></p>
+  <ul>
+    <li>Онлайн-робота з телефону або компʼютера</li>
+    <li>Безкоштовна реєстрація</li>
+    <li>Партнерська програма</li>
+    <li>Підходить для новачків</li>
+  </ul>
+
+  <p>
+    Перед використанням радимо самостійно ознайомитись з умовами сервісу
+    та прийняти рішення.
+  </p>
+
+  <a class="btn" href="ТУТ_ТВОЯ_РЕФЕРАЛЬНА_ССИЛКА" target="_blank">
+    Перейти на офіційний сайт
+  </a>
+
+  <p class="note">
+    Інформація надана в ознайомчих цілях.  
+    Можлива партнерська винагорода.
+  </p>
+</div>
+
+</body>
+</html>
